@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hand Printing should return a readable value of the hand in a single line 1`] = `"A♥ K♥ Q♥ J♥ A♠ K♠ Q♠ J♠ A♣ K♣ Q♣ J♣ A♦ K♦ Q♦ J♦"`;
+
+exports[`Hand Printing should return a readable value of the hand in multiple lines 1`] = `
+"♥ A K Q J
+♠ A K Q J
+♣ A K Q J
+♦ A K Q J"
+`;
+
+exports[`Hand should add a new card to the hand 1`] = `
+Hand {
+  "cards": Array [
+    Card {
+      "rank": "A",
+      "suit": "♥",
+    },
+  ],
+}
+`;
+
+exports[`Hand should create an empty hand 1`] = `
+Hand {
+  "cards": Array [],
+}
+`;
+
+exports[`Hand should remove a card from the hand when it is played 1`] = `
+Hand {
+  "cards": Array [],
+}
+`;

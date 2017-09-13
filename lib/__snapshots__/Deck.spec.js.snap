@@ -1,0 +1,491 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Deck should create a deck 1`] = `
+Deck {
+  "cards": Array [
+    Card {
+      "rank": "A",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "K",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "Q",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "J",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "T",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "9",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "8",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "7",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "6",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "5",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "4",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "3",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "2",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "A",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "K",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "Q",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "J",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "T",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "9",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "8",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "7",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "6",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "5",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "4",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "3",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "2",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "A",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "K",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "Q",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "J",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "T",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "9",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "8",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "7",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "6",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "5",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "4",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "3",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "2",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "A",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "K",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "Q",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "J",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "T",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "9",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "8",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "7",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "6",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "5",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "4",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "3",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "2",
+      "suit": "♦",
+    },
+  ],
+}
+`;
+
+exports[`Deck should draw a card from the deck 1`] = `
+Card {
+  "rank": "2",
+  "suit": "♦",
+}
+`;
+
+exports[`Deck should draw a card from the deck 2`] = `
+Deck {
+  "cards": Array [
+    Card {
+      "rank": "A",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "K",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "Q",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "J",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "T",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "9",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "8",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "7",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "6",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "5",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "4",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "3",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "2",
+      "suit": "♥",
+    },
+    Card {
+      "rank": "A",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "K",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "Q",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "J",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "T",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "9",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "8",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "7",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "6",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "5",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "4",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "3",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "2",
+      "suit": "♠",
+    },
+    Card {
+      "rank": "A",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "K",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "Q",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "J",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "T",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "9",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "8",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "7",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "6",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "5",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "4",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "3",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "2",
+      "suit": "♣",
+    },
+    Card {
+      "rank": "A",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "K",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "Q",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "J",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "T",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "9",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "8",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "7",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "6",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "5",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "4",
+      "suit": "♦",
+    },
+    Card {
+      "rank": "3",
+      "suit": "♦",
+    },
+  ],
+}
+`;
+
+exports[`Deck should return readable string of a deck 1`] = `
+Array [
+  "A♥",
+  "K♥",
+  "Q♥",
+  "J♥",
+  "T♥",
+  "9♥",
+  "8♥",
+  "7♥",
+  "6♥",
+  "5♥",
+  "4♥",
+  "3♥",
+  "2♥",
+  "A♠",
+  "K♠",
+  "Q♠",
+  "J♠",
+  "T♠",
+  "9♠",
+  "8♠",
+  "7♠",
+  "6♠",
+  "5♠",
+  "4♠",
+  "3♠",
+  "2♠",
+  "A♣",
+  "K♣",
+  "Q♣",
+  "J♣",
+  "T♣",
+  "9♣",
+  "8♣",
+  "7♣",
+  "6♣",
+  "5♣",
+  "4♣",
+  "3♣",
+  "2♣",
+  "A♦",
+  "K♦",
+  "Q♦",
+  "J♦",
+  "T♦",
+  "9♦",
+  "8♦",
+  "7♦",
+  "6♦",
+  "5♦",
+  "4♦",
+  "3♦",
+  "2♦",
+]
+`;
