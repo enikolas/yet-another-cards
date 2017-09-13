@@ -22,7 +22,6 @@ test_script:
   - npm --version
   - npm run lint
   - npm test
-  - npm run build
 
 build: off
 
